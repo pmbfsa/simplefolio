@@ -1,24 +1,24 @@
 {
   "name": "simplefolio",
-  "version": "1.0.1",
+  "version": "1.0.0",
   "private": "true",
   "description": "A clean, beautiful and responsive portfolio template for Developers!",
   "source": "src/index.html",
   "scripts": {
     "start": "parcel",
-    "build": "parcel build"
+    "build": "parcel build --dist-dir docs"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/cobiwave/simplefolio"
+    "url": "git+https://github.com/pmbfsa/simplefolio"
   },
   "keywords": [],
-  "author": "Jacobo Martinez",
-  "license": "ISC",
+  "author": "Paulo Márcio",
+  "license": "GPL-3.0-only",
   "bugs": {
-    "url": "https://github.com/cobiwave/simplefolio/issues"
+    "url": "https://github.com/pmbfsa/simplefolio/issues"
   },
-  "homepage": "https://github.com/cobiwave/simplefolio#readme",
+  "homepage": "https://github.com/pmbfsa/simplefolio#readme",
   "devDependencies": {
     "@parcel/transformer-sass": "^2.16.4",
     "parcel": "^2.8.2",
