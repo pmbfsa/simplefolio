@@ -1,126 +1,126 @@
 <div align="center">
 
-# 🌐 Simplefolio — Portfólio Pessoal
+# 🌐 Simplefolio — Personal Portfolio
 
-[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-Publicado-22863a?style=for-the-badge&logo=github)](https://pmbfsa.github.io/simplefolio/) [![License: GPL v3](https://img.shields.io/badge/Licen%C3%A7a-GPLv3-blue?style=for-the-badge&logo=gnu)](https://www.gnu.org/licenses/gpl-3.0) [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/pt-BR/docs/Web/HTML) [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript) [![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)](https://sass-lang.com/) [![Parcel](https://img.shields.io/badge/Parcel-B0731B?style=for-the-badge&logo=parcel&logoColor=white)](https://parceljs.org/)
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en/docs/Web/HTML) [![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)](https://sass-lang.com/) [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en/docs/Web/JavaScript) [![Parcel](https://img.shields.io/badge/Parcel-B0731B?style=for-the-badge&logo=parcel&logoColor=white)](https://parceljs.org/)
 
-Portfólio pessoal de **Paulo Márcio**, desenvolvido para apresentar projetos publicados e facilitar o contato profissional.
+My personal portfolio, designed to showcase published projects and make professional contact easier.
 
-**[→ Acessar o portfólio](https://pmbfsa.github.io/simplefolio/)**
+**[→ Visit the portfolio](https://pmbfsa.github.io/simplefolio/)**
 
 </div>
 
 ---
 
-## 📋 Sobre o Projeto
+## 📋 About the Project
 
-Este portfólio foi desenvolvido com foco em **simplicidade e performance**, reunindo em um único lugar:
+This portfolio was built with a focus on **simplicity and performance**, bringing together in one place:
 
-- 🗂️ Links para projetos publicados
-- 📄 Acesso ao currículo
-- 📞 Botões de contato direto via telefone e e-mail
-- 📱 Layout responsivo para todos os dispositivos
-- ✨ Animações para uma experiência mais fluida
+- 🗂️ Links to published projects
+- 📄 Access to my resume
+- 📞 Direct contact buttons via phone and e-mail
+- 📱 Responsive layout for all devices
+- ✨ Animations for a smoother experience
 
 ---
 
 ## 📸 Screenshot
 
 <div align="center">
-  <img src="./examples/example.png" alt="Preview do portfólio de Paulo Márcio" width="100%">
+  <img src="./examples/example.png" alt="Paulo Márcio's portfolio preview" width="100%">
 </div>
 
 ---
 
-## 🚀 Tecnologias Utilizadas
+## 🚀 Tech Stack
 
-| Tecnologia     | Função                                              |
-| -------------- | --------------------------------------------------- |
-| **HTML5**      | Estrutura e marcação semântica das páginas          |
-| **CSS3**       | Estilização e layout responsivo                     |
-| **Sass/SCSS**  | Pré-processamento CSS com variáveis e modularização |
-| **JavaScript** | Interatividade e comportamento dinâmico             |
-| **Parcel**     | Bundler para empacotamento e build do projeto       |
-
----
-
-## ✨ Funcionalidades
-
-- **Responsivo** — adaptado para dispositivos móveis, tablets e desktops
-- **Animações** — transições e efeitos visuais para melhorar a experiência do usuário
-- **Contato direto** — botões de atalho para ligação telefônica e envio de e-mail
-- **Acesso ao currículo** — link direto para download ou visualização do CV
-- **Links de projetos** — seção dedicada aos projetos publicados
+| Technology     | Role                                                 |
+| -------------- | ---------------------------------------------------- |
+| **HTML5**      | Semantic structure and markup                        |
+| **CSS3**       | Styling and responsive layout                        |
+| **Sass/SCSS**  | CSS pre-processing with variables and modularization |
+| **JavaScript** | Interactivity and dynamic behavior                   |
+| **Parcel**     | Bundler for packaging and building the project       |
 
 ---
 
-## 🛠️ Como Rodar Localmente
+## ✨ Features
 
-### Pré-requisitos
+- **Responsive** — adapted for mobile devices, tablets, and desktops
+- **Animations** — transitions and visual effects to enhance user experience
+- **Direct contact** — shortcut buttons for phone calls and e-mail
+- **Resume access** — direct link to download or view the CV
+- **Project links** — dedicated section for published projects
 
-- [Node.js](https://nodejs.org/) (versão LTS recomendada)
+---
+
+## 🛠️ Running Locally
+
+### Prerequisites
+
+- [Node.js](https://nodejs.org/) (LTS version recommended)
 - [npm](https://www.npmjs.com/)
 
-### Passos
+### Steps
 
 ```bash
-# 1. Clone o repositório
+# 1. Clone the repository
 git clone https://github.com/pmbfsa/simplefolio.git
 
-# 2. Acesse a pasta do projeto
+# 2. Navigate to the project folder
 cd simplefolio
 
-# 3. Instale as dependências
+# 3. Install dependencies
 npm install
 
-# 4. Inicie o servidor de desenvolvimento
+# 4. Start the development server
 npm run start
 ```
 
-O projeto estará disponível em `http://localhost:1234` (porta padrão do Parcel).
+The project will be available at `http://localhost:1234` (Parcel's default port).
 
 ---
 
-## 📦 Build para Produção
+## 📦 Production Build
 
 ```bash
 npm run build
 ```
 
-Os arquivos otimizados serão gerados na pasta `docs/`, que é utilizada para publicação via **GitHub Pages**.
+Optimized files will be generated in the `docs/` folder, which is used for publishing via **GitHub Pages**.
 
 ---
 
 ## 🌍 Deploy
 
-O projeto é publicado automaticamente pelo **GitHub Pages** a partir da pasta `docs/` na branch `main`.
+The project is published via **GitHub Pages** from the `docs/` folder on the `main` branch.
 
-Acesse em: [https://pmbfsa.github.io/simplefolio/](https://pmbfsa.github.io/simplefolio/)
+Live at: [https://pmbfsa.github.io/simplefolio/](https://pmbfsa.github.io/simplefolio/)
 
 ---
 
-## 📁 Estrutura do Projeto
+## 📁 Project Structure
 
 ```
 simplefolio/
 ├── src/
 │   ├── assets/
-│   │   ├── favicon.png             # Ícone do site
-│   │   ├── omnifood.png            # Imagem de projeto
-│   │   ├── profile.jpeg            # Foto de perfil
-│   │   └── resume.pdf              # Currículo
+│   │   ├── favicon.png             # Site icon
+│   │   ├── omnifood.png            # Project image
+│   │   ├── profile.jpeg            # Profile photo
+│   │   └── resume.pdf              # Resume
 │   ├── data/
-│   │   └── scrollRevealConfig.js   # Configurações de animação ScrollReveal
-│   ├── sass/                       # Arquivos de configuração do ambiente Sass
+│   │   └── scrollRevealConfig.js   # ScrollReveal animation settings
+│   ├── sass/                       # Sass environment configuration files
 │   ├── scripts/
-│   │   ├── scrollReveal.js         # Script de animação de scroll
-│   │   └── tiltAnimation.js        # Script de animação de inclinação
-│   ├── index.html                  # Página principal
-│   ├── index.js                    # Entry point JavaScript
-│   └── styles.scss                 # Estilos globais (Sass)
-├── docs/                           # Build de produção (GitHub Pages)
+│   │   ├── scrollReveal.js         # Scroll animation script
+│   │   └── tiltAnimation.js        # Tilt animation script
+│   ├── index.html                  # Main page
+│   ├── index.js                    # JavaScript entry point
+│   └── styles.scss                 # Global styles (Sass)
+├── docs/                           # Production build (GitHub Pages)
 ├── examples/
-│   └── example.png                 # Screenshot do portfólio
+│   └── example.png                 # Portfolio screenshot
 ├── package.json
 ├── LICENSE
 └── README.md
@@ -128,15 +128,15 @@ simplefolio/
 
 ---
 
-## 📬 Contato
+## 📬 Contact
 
-Desenvolvido por **Paulo Márcio**
+Developed by **Paulo Márcio**
 
 [![GitHub](https://img.shields.io/badge/GitHub-pmbfsa-181717?style=for-the-badge&logo=github)](https://github.com/pmbfsa)
 
 ---
 
-## 📜 Licença
+## 📜 License
 
-Este projeto está licenciado sob a **GNU General Public License v3.0**.
-Consulte o arquivo [LICENSE](./LICENSE) para mais detalhes.
+This project is licensed under the **GNU General Public License v3.0**.
+See the [LICENSE](./LICENSE) file for more details.
