@@ -6,11 +6,9 @@
 
 My personal portfolio, designed to showcase published projects and make professional contact easier.
 
-**[→ Visit the portfolio](https://pmbfsa.github.io/simplefolio/)**
+**[→ Visit my portfolio](https://pmbfsa.github.io/simplefolio/)**
 
 </div>
-
----
 
 ## 📋 About the Project
 
@@ -22,15 +20,11 @@ This portfolio was built with a focus on **simplicity and performance**, bringin
 - 📱 Responsive layout for all devices
 - ✨ Animations for a smoother experience
 
----
-
 ## 📸 Screenshot
 
 <div align="center">
   <img src="./examples/example.png" alt="Paulo Márcio's portfolio preview" width="100%">
 </div>
-
----
 
 ## 🚀 Tech Stack
 
@@ -42,8 +36,6 @@ This portfolio was built with a focus on **simplicity and performance**, bringin
 | **JavaScript** | Interactivity and dynamic behavior                   |
 | **Parcel**     | Bundler for packaging and building the project       |
 
----
-
 ## ✨ Features
 
 - **Responsive** — adapted for mobile devices, tablets, and desktops
@@ -51,8 +43,6 @@ This portfolio was built with a focus on **simplicity and performance**, bringin
 - **Direct contact** — shortcut buttons for phone calls and e-mail
 - **Resume access** — direct link to download or view the CV
 - **Project links** — dedicated section for published projects
-
----
 
 ## 🛠️ Running Locally
 
@@ -79,8 +69,6 @@ npm run start
 
 The project will be available at `http://localhost:1234` (Parcel's default port).
 
----
-
 ## 📦 Production Build
 
 ```bash
@@ -89,15 +77,11 @@ npm run build
 
 Optimized files will be generated in the `docs/` folder, which is used for publishing via **GitHub Pages**.
 
----
-
 ## 🌍 Deploy
 
 The project is published via **GitHub Pages** from the `docs/` folder on the `main` branch.
 
 Live at: [https://pmbfsa.github.io/simplefolio/](https://pmbfsa.github.io/simplefolio/)
-
----
 
 ## 📁 Project Structure
 
@@ -126,15 +110,11 @@ simplefolio/
 └── README.md
 ```
 
----
-
 ## 📬 Contact
 
 Developed by **Paulo Márcio**
 
 [![GitHub](https://img.shields.io/badge/GitHub-pmbfsa-181717?style=for-the-badge&logo=github)](https://github.com/pmbfsa)
-
----
 
 ## 📜 License
 
