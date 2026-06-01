@@ -6,8 +6,6 @@
 
 My personal portfolio, designed to showcase published projects and make professional contact easier.
 
-**[→ Visit my portfolio](https://pmbfsa.github.io/simplefolio/)**
-
 </div>
 
 ## 📋 About the Project
@@ -20,11 +18,11 @@ This portfolio was built with a focus on **simplicity and performance**, bringin
 - 📱 Responsive layout for all devices
 - ✨ Animations for a smoother experience
 
-## 📸 Screenshot
+## 📸 Demo
 
-<div align="center">
-  <img src="./examples/example.png" alt="Paulo Márcio's portfolio preview" width="100%">
-</div>
+![Paulo Márcio's portfolio preview](screenshot.png)
+
+⛓️‍💥 [Live demo](https://pmbfsa.github.io/simplefolio/)
 
 ## 🚀 Tech Stack
 
@@ -81,8 +79,6 @@ Optimized files will be generated in the `docs/` folder, which is used for publi
 
 The project is published via **GitHub Pages** from the `docs/` folder on the `main` branch.
 
-Live at: [https://pmbfsa.github.io/simplefolio/](https://pmbfsa.github.io/simplefolio/)
-
 ## 📁 Project Structure
 
 ```
@@ -103,11 +99,7 @@ simplefolio/
 │   ├── index.js                    # JavaScript entry point
 │   └── styles.scss                 # Global styles (Sass)
 ├── docs/                           # Production build (GitHub Pages)
-├── examples/
-│   └── example.png                 # Portfolio screenshot
-├── package.json
-├── LICENSE
-└── README.md
+└── package.json
 ```
 
 ## 📬 Contact
