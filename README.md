@@ -77,7 +77,7 @@ Optimized files will be generated in the `docs/` folder, which is used for publi
 
 ## 🌍 Deploy
 
-The project is published via **GitHub Pages** from the `docs/` folder on the `main` branch.
+The project is published via **GitHub Pages** from the `docs/` folder on the `master` branch.
 
 ## 📁 Project Structure
 
@@ -102,13 +102,13 @@ simplefolio/
 └── package.json
 ```
 
-## 📬 Contact
-
-Developed by **Paulo Márcio**
-
-[![GitHub](https://img.shields.io/badge/GitHub-pmbfsa-181717?style=for-the-badge&logo=github)](https://github.com/pmbfsa)
-
 ## 📜 License
 
-This project is licensed under the **GNU General Public License v3.0**.
+This project is licensed under the **MIT License**.
 See the [LICENSE](./LICENSE) file for more details.
+
+<div align="center">
+
+_"Based on the open-source [Simplefolio](https://github.com/cobiwave/simplefolio) template by cobiwave."_
+
+</div>
